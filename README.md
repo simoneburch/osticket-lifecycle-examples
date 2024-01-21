@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/simoneburch/osticket-lifecycle-examples/assets/152559137/c76d9b83-23ad-4672-8cf6-cb3d7117d47f" height="50%" width="50%" alt="osTicket logo"/>
+<img src="https://github.com/simoneburch/osticket-lifecycle-examples/assets/152559137/c76d9b83-23ad-4672-8cf6-cb3d7117d47f" height="50%" width="50%" alt="osTicket graphic"/>
 </p>
 
 <h1 align="center">
