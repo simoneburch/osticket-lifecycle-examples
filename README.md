@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/KzJbWRS.png" height="50%" width="50%" alt="osTicket logo"/>
+<img src="https://github.com/simoneburch/osticket-lifecycle-examples/assets/152559137/c76d9b83-23ad-4672-8cf6-cb3d7117d47f" height="50%" width="50%" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1 align="center">
+osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
 This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".
 
