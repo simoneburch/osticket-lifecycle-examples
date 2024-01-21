@@ -120,8 +120,8 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 </p>
 <hr>
 
-<h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
+<h2><p align=center></p></h2>
 
-<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
+__<p align=right>Make sure to clean up your resources in Azure :)<br>__
 If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
 </p>
