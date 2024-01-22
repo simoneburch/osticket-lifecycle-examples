@@ -5,9 +5,9 @@
 <h1 align="center">
 osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
-This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".
+__This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".__
 
-_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Post-Install Configuration"](https://github.com/JTYKolesar/post-install-config)._
+*PLEASE NOTE: The websites that have been created during this exercise have been torn down upon completion of the exercise. They are still being referred to throughout this demo but are now pointing to non-existent spaces on the internet. If you have followed along in the previous installation and configuration of osTicket then you will see the up-and-running sites for yourself. These are screenshots taken during the exercise. :)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -28,13 +28,13 @@ _<b>NOTE:</b> This demonstration uses materials created in the previous demonstr
 
 <h2>Lifecycle Stages</h2>
 
-<h3>&#9312; Intake</h3>
+<h3>Intake</h3>
 
-_We'll start by accessing the page where tickets can be created, as if we're an external user:_
+_We'll start as an external user and accessing the page where tickets can be created:_
 - On the web browser (Microsoft Edge), go to the End User Ticket Page (http://localhost/osTicket/).
 - Click on "Open a New Ticket".
 <p align=center>
-<img src="https://i.imgur.com/Udla59t.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Udla59t.jpg" height="80%" width="80%" alt="Welcome Page"/>
 </p>
 
 - Enter an Email Address and Full Name (this example uses **karen@osticket.com / Karen Karen**)
@@ -42,8 +42,8 @@ _We'll start by accessing the page where tickets can be created, as if we're an 
 - Type a quick Header and a short description under Issue Sumamry (anything can be typed for demonstration purposes).
 - Once done, click "Create Ticket".
 <p align=center>
-<img src="https://i.imgur.com/40QD7AI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/gg905UJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/40QD7AI.jpg" height="80%" width="80%" alt="PC Issues"/>
+<img src="https://i.imgur.com/gg905UJ.jpg" height="80%" width="80%" alt="General Inguiry"/>
 </p>
 
 _Create a few more tickets with varying importance for demonstration purposes:_ 
@@ -53,9 +53,9 @@ _Create a few more tickets with varying importance for demonstration purposes:_
 </p>
 <hr>
 
-<h3>&#9313; Assignment and Communication</h3>
+<h3>Assignment and Communication</h3>
 
-_Tickets have been made! We'll now go into the Agent's perspective of their end:_
+_We'll now log in as an Agent and work from the agent's perspective:_
 - On the web browser (Microsoft Edge), go to the Help Desk Login Page (http://localhost/osTicket/scp/login.php).
   - Log into the osTicket Help Desk using an Agent account (this example uses username **jane.doe / jane.doe@osticket.com**).
   - Once logged in, you should see the created tickets from the clients.
@@ -80,7 +80,7 @@ _Having the entire mobile online banking down is something that could have a maj
 </p>
 <hr>
 
-<h3>&#9314; Working the Issue</h3>
+<h3>Working the Issue</h3>
 
 _Observing the overview page, we can see every update happening within the Ticket Thread. As an Agent, we can communicate under Post Reply to bring status updates to anyone viewing this ticket or for conversational purposes regarding the issue at-hand._
 <p align=center>
@@ -98,7 +98,7 @@ _Observing the overview page, we can see every update happening within the Ticke
 _Like a virtual chat or messaging system, your message will be sent and posted on the thread. The thread will constantly be updated with conversations back and forth, or status changes while working on the issue at-hand._
 <hr>
 
-<h3>&#9315; Resolution</h3>
+<h3>Resolution</h3>
 
 _Let's say the issue has finally been resolved:_
 - Under Post Reply, type in a random message stating a final update of the matter.
@@ -123,5 +123,4 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 <h2><p align=center></p></h2>
 
 __<p align=right>Make sure to clean up your resources in Azure :)<br>__
-If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
 </p>
