@@ -46,7 +46,7 @@ _We'll start as an external user and navigate to the page where a ticket may be 
 <img src="https://i.imgur.com/gg905UJ.jpg" height="80%" width="80%" alt="General Inquiry"/>
 </p>
 
-_Create a few more tickets with varying importance for demonstration purposes:_ 
+_Create a few more tickets with varying importance:_ 
 <p align=center>
 <img src="https://i.imgur.com/gsYwMkX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Uh85P3N.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
