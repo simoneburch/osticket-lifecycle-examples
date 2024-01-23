@@ -89,7 +89,7 @@ _On the overview page, we can see each update within the Ticket Thread. As an Ag
 <img src="https://i.imgur.com/qtVIjs7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Under Post Reply, type in your reply.
+- Under Post Reply, enter your status information.
 - Keep the Ticket Status "Open (current)", assuming the issue isn't resolved.
 - Click "Post Reply".
 <p align=center>
