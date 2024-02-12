@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center">
-osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+osTicket - Lifecycle Management</h1>
 
-__This demonstration outlines the lifecycle of a ticket from intake to resolution within the help desk ticketing system "osTicket".__
+__This demonstration follows the lifecycle of a ticket within the help desk ticketing system "osTicket". We can see the creation of the help ticket as a user, assignment or escalation as an agent, and navigation as an administrator.  We will also see the ticket queue, assignment of severity levels, and in-ticket documentation.__ </br>
+</br>
 
 *PLEASE NOTE: The websites that are still being referred to throughout this demo have since been torn down and are now pointing to non-existent spaces on the internet. If you've followed along in the installation and configuration portions then you will see the up-and-running sites for yourself. These are screenshots taken during the exercise. :)
 
